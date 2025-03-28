@@ -1,197 +1,240 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.1.3">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1979" dy="616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2068" dy="893" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="aM6hJHMmdhx9VierY-xj-15" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=19.28582000732422;strokeWidth=2;points=[[0,0,0,0,19.28582000732422],[0,0,0,0,36.14291000366211],[0,0,0,0,69.85708999633789],[0,0.5,0,0,0],[0,1,0,0,-19.28582000732422],[0.145,0,0,0,5.592887802124023],[0.145,1,0,0,-5.592887802124023],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.855,0,0,0,5.592887802124023],[0.855,1,0,0,-5.592887802124023],[1,0,0,0,19.28582000732422],[1,0,0,0,36.14291000366211],[1,0,0,0,69.85708999633789],[1,0.5,0,0,0],[1,1,0,0,-19.28582000732422]];labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="183" y="726" width="609" height="202" as="geometry" />
+          <mxGeometry x="144" y="728" width="684" height="197" as="geometry" />
         </mxCell>
         <mxCell id="aM6hJHMmdhx9VierY-xj-23" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;PingFang SC&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;​&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: inherit; font-family: &amp;quot;PingFang SC&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgba(0, 0, 0, 0.9); text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;Climate Risk Research Database (CRRD)&lt;/strong&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Sans Simplified Chinese;fontSize=16;labelBackgroundColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BSimplified%2BChinese;" parent="1" vertex="1">
-          <mxGeometry x="314.5" y="726" width="346" height="30" as="geometry" />
+          <mxGeometry x="311" y="730" width="346" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-31" value="灾害因子计算" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-203" y="643" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-32" value="暴露度测算" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-355" y="662" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-33" value="脆弱性分析" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-81" y="673" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-36" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="825" y="317" width="290" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-37" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-36" vertex="1">
-          <mxGeometry y="30" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-39" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-36" vertex="1">
-          <mxGeometry y="60" width="290" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-40" value="金融实体气候风险评估" style="swimlane;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="157.5" y="293" width="286" height="157" as="geometry">
-            <mxRectangle x="-253" y="238" width="130" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-41" value="物理风险" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-40" vertex="1">
-          <mxGeometry x="25" y="67" width="127" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-52" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-355" y="461" width="180" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-52" vertex="1">
-          <mxGeometry y="30" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-54" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-53" vertex="1">
-          <mxGeometry width="40" height="30" as="geometry">
-            <mxRectangle width="40" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-55" value="地理位置" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=16;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-53" vertex="1">
-          <mxGeometry x="40" width="140" height="30" as="geometry">
-            <mxRectangle width="140" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-56" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-52" vertex="1">
-          <mxGeometry y="60" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-57" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-56" vertex="1">
-          <mxGeometry width="40" height="30" as="geometry">
-            <mxRectangle width="40" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-58" value="计算年份" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=16;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-56" vertex="1">
-          <mxGeometry x="40" width="140" height="30" as="geometry">
-            <mxRectangle width="140" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-52" vertex="1">
-          <mxGeometry y="90" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-60" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-59" vertex="1">
-          <mxGeometry width="40" height="30" as="geometry">
-            <mxRectangle width="40" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-61" value="Value 3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=16;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-59" vertex="1">
-          <mxGeometry x="40" width="140" height="30" as="geometry">
-            <mxRectangle width="140" height="30" as="alternateBounds" />
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-87" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="aM6hJHMmdhx9VierY-xj-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="212" y="597" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aM6hJHMmdhx9VierY-xj-66" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Attribute1: Type&lt;br/&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-149" y="476" width="180" height="90" as="geometry" />
+          <mxGeometry x="-103" y="552" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aM6hJHMmdhx9VierY-xj-67" value="" style="shape=component;jettyWidth=8;jettyHeight=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="aM6hJHMmdhx9VierY-xj-66" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-9" value="&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&amp;nbsp;Socioeconoerational&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="align=center;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=1.2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="939" width="134" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-148" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;dashPattern=1 1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-21" y="893.64" as="sourcePoint" />
-            <mxPoint x="-30" y="893.64" as="targetPoint" />
+            <mxPoint x="798" y="638" as="sourcePoint" />
+            <mxPoint x="914" y="638" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-17" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Hazard Data&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=1.2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-116" y="810.82" width="134" height="140" as="geometry" />
+        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;目标区域物理风险&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=2;fillStyle=solid;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="212" y="543" width="586" height="150" as="geometry">
+            <mxRectangle x="-253" y="238" width="130" height="26" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;+ Attribute1: Type&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;+ Attribute2: Type&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-109.99719299316405" y="842.6399923706055" width="122" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-40" value="" style="group;strokeWidth=1.5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="59" y="969" width="120" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-6" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: transparent; text-align: left;&quot;&gt;&lt;b&gt;Climate Data&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=1.2;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-40">
-          <mxGeometry width="120" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-41" value="" style="group;labelBackgroundColor=none;" vertex="1" connectable="0" parent="_2P0ydqBUkeEVUjt9T0Z-40">
-          <mxGeometry x="13" y="38.685483870967744" width="94" height="70.56629032258064" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAvCAMAAABE+WOeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAzUExURQAAAHCv/3Kt/HKt+3Kv/nOu/nKu/XKu/XKv/XKt/XCv+nCr+3Kv/XKu/XCv/3Gu/nOs/BPl7A4AAAARdFJOUwAQYICvz+/fn3AwQI//IL9QK3sR8gAAAAlwSFlzAAAXEQAAFxEByibzPwAAAVBJREFUSEvdlduShCAMRIMCAoL4/1+7JSCJLc5Y+7Z7HpMucgWI/iFqmrWxi/MBPSPWaFNKNgaFnhGrSYfavxITzcfZyb1UK32okyfaNvQNCEuRu2hKlJQnVFxQVX4hPsdpySCPMSIqGxGFlRV1nYzSQkYZo1FLRDuKJDuqicbFNiyqSdWON4yOruzFiUe9TMfWFrbpVRPqZ/YtfXlEiPUql+mza2MjJsSxnbDyCLGlrJfz56oWYT3gVOUdVN2KBbNeVhYe9a57ZGVTt2I+3E8jrLxTuHOcqQjAx9+Xmhtkz+1axY5g/+VZ9RJu5Rk6uV1LuLz5sn+3cf3iAoiW3sjD9+uy8RdwOxtPL8Qg+4pHZcEMsymEQRH28y/gaxnW6LoNfXzPqG0LinwZQb5Naoyqxcfn3CVqL+P+8qCfhPmowebPhTbUrJNddHz3Of41fgCg5SYqUsV8ywAAAABJRU5ErkJggg==;" parent="_2P0ydqBUkeEVUjt9T0Z-41" vertex="1">
-          <mxGeometry width="40.66935483870967" height="40.66935483870967" as="geometry" />
-        </mxCell>
-        <mxCell id="aM6hJHMmdhx9VierY-xj-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjE5OS40MzUzMDU1OTUzOTc5NSIgd2lkdGg9IjE5OS42NzI5MTM1NTEzMzA1NyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwLjgzMzY0ODY4MTY0MDYyNSAxLjQ1MzQ2MDY5MzM1OTM3NSAxMDIyLjMyNTMxNzM4MjgxMjUgMTAyMS4xMDg3NjQ2NDg0Mzc1IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzNCODBDMyIgZD0iTTUwOS4xNzAyNzMgMTAyMi40OTQ4MjZDMjI0LjI3MDkzMSAxMDE3LjczODQ3Ni0zLjczMjgzMiA3ODYuMzAyOTE2IDAuOTAzMTA0IDUwNi41MjExNjcgNS41MzkwNCAyMjMuOTA5NjkgMjM5LjU2MzUtNC4zMzQ5MDEgNTIwLjAwNzUyNiAxLjU2NTM4MWMyODIuNDMwODU2IDUuOTAwMjgyIDUwMy44NzIwNiAyMjkuMDg3NDg4IDUwMy4xNDk1NzcgNTE0LjI4Nzg2NS0wLjY2MjI3NyAyODIuNTUxMjctMjM2LjkxNDM5MyA1MTEuMjE3MzEtNTEzLjk4NjgzIDUwNi42NDE1OHoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNNTEyLjYwMjA3IDk3OS42Mjc0NjlDMjUyLjg2OTIzOCA5NzkuNjg3Njc2IDQyLjMyNTQ5NCA3NjkuNzQ2MDAyIDQzLjA0Nzk3NyA1MTEuMjc3NTE2IDQzLjc3MDQ2MSAyNTMuMTEwMDY2IDI1NC44NTYwNjggNDMuODkwODc1IDUxNC4yODc4NjUgNDQuMzcyNTMxYzI1Ni42NjIyNzcgMC40ODE2NTYgNDY2Ljg0NDc3OSAyMTEuNTY3MjYyIDQ2Ni43MjQzNjUgNDY4LjcxMTE5NC0wLjE4MDYyMSAyNTYuODQyODk3LTIxMC42MDM5NTEgNDY2LjQ4MzUzNy00NjguNDEwMTYgNDY2LjU0Mzc0NHoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNNDQzLjQyNDI3MSA3NjUuMTcwMjczYzAgMjMuOTAyMTY0LTAuNjAyMDcgNDcuODY0NTM0IDAuMzAxMDM1IDcxLjcwNjQ5MSAwLjQyMTQ0OSAxMS45MjA5NzgtMy43OTMwMzkgMTUuMTExOTQ3LTE1LjExMTk0OCAxNC43NTA3MDUtMjEuOTc1NTQxLTAuNzgyNjktNDQuMDcxNDk2LTAuNjYyMjc3LTY2LjA0NzAzNi0wLjA2MDIwNy0xMC4zNTU1OTcgMC4zMDEwMzUtMTQuNDQ5NjcxLTIuNzY5NTItMTQuMzI5MjU3LTEzLjcyNzE4NyAwLjQ4MTY1Ni00OS4wNjg2NzQtMC4xMjA0MTQtOTguMTk3NTU0IDAuNDgxNjU2LTE0Ny4yNjYyMjcgMC4zNjEyNDItMjguMTE2NjUxIDIxLjA3MjQzNy00OC4xNjU1NjkgNDcuNzQ0MTItNDcuODY0NTM1IDI2LjM3MDY0OSAwLjI0MDgyOCA0Ni4yOTkxNTMgMjAuNTkwNzgxIDQ2LjkwMTIyMyA0OC44Mjc4NDYgMC40MjE0NDkgMjQuNTA0MjMzIDAgNDkuMDY4Njc0IDAuMDYwMjA3IDczLjYzMzExNHoiLz48cGF0aCBmaWxsPSIjM0I4MEMzIiBkPSJNOTMyLjg0NjY2IDUxMi4wNjAyMDdjMC4xMjA0MTQgMjMzLjc4MzYzMS0xODguMjY3MTY4IDQyMi42NTI4NjktNDIxLjM4ODUyMyA0MjIuNDEyMDQxLTIzMS43OTY4MDItMC4yNDA4MjgtNDIwLjAwMzc2My0xODguNTA3OTk2LTQyMC4zNjUwMDQtNDIwLjQyNTIxMS0wLjMwMTAzNS0yMzQuNjI2NTI5IDE4NS40OTc2NDgtNDIyLjUzMjQ1NSA0MTkuODgzMzQ5LTQyNC41MTkyODUgMjMxLjU1NTk3NC0xLjkyNjYyMyA0MjEuNzQ5NzY1IDE4OC41MDc5OTYgNDIxLjg3MDE3OCA0MjIuNTMyNDU1eiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yMzkuNjIzNzA2IDYyMS4zOTYwNDloLTUwLjUxMzY0Yy0yLjQwODI3OC01LjcxOTY2MSAxLjQ0NDk2Ny05LjIxMTY2NSAzLjMxMTM4My0xMi45NDQ0OTcgMzQuNTU4Nzk2LTY5LjQxODYyNyA2OS42NTk0NTQtMTM4LjU5NjQyNSAxMDMuNTU1OTczLTIwOC4zNzYyOTMgOC4wNjc3MzMtMTYuNDk2NzA3IDE5LjI2NjIyOC0yMi41MTc0MDQgMzYuOTY3MDc1LTI0LjA4Mjc4NSA3Ny43ODczOTQtNi44MDMzODcgMTU1LjQ1NDM3NC0xNC41MDk4NzggMjMzLjEyMTM1NC0yMi42Mzc4MTcgMTUuMTExOTQ3LTEuNTY1MzgxIDI0LjAyMjU3OCAyLjIyNzY1OCAzMC43NjU3NTggMTYuNTU2OTE0IDM3LjI2ODEwOSA3OC44MTA5MTMgNzUuMjU4NzAyIDE1Ny4yNjA1ODMgMTEzLjQ5MDEyMiAyMzUuNTg5ODQgNS40Nzg4MzMgMTEuMjU4NzAyIDcuNTI1ODcgMTYuMzc2Mjk0LTguOTEwNjMgMTYuMDc1MjU5LTQ3LjAyMTYzNy0wLjkwMzEwNC05NC4wNDMyNzQtMC40MjE0NDktMTQxLjA2NDkxMS0wLjE4MDYyMS03LjgyNjkwNSAwLjA2MDIwNy0xNC4yNjkwNS0wLjQ4MTY1Ni0xOC4xMjIyOTUtOC43OTAyMTYtMy4wMTAzNDgtNi41MDIzNTItMTAuMTE0NzctOC44NTA0MjMtMTUuOTU0ODQ1LTEyLjE2MTgwNy0zMy44MzYzMTItMTkuNTA3MDU2LTY4LjAzMzg2Ni0zOC40NzIyNDgtMTAxLjU2OTE0NC01OC41MjExNjYtMTEuMDE3ODc0LTYuNTYyNTU5LTE3LjAzODU3LTYuOTg0MDA4LTIyLjgxODQzOCA2LjIwMTMxNy04Ljg1MDQyMyAyMC4yMjk1MzktMTkuOTI4NTA0IDM5LjQzNTU2LTI5LjUwMTQxMiA1OS4zMDM4NTctNC43NTYzNSA5Ljg3Mzk0Mi0xMS44NjA3NzEgMTQuNDQ5NjcxLTIyLjc1ODIzMSAxNC4zMjkyNTctMTguMTIyMjk1LTAuMjQwODI4LTM2LjI0NDU5MS0wLjA2MDIwNy01NC42MDc3MTQtMC4wNjAyMDcgNDMuNTI5NjMzIDQwLjYzOTY5OSA5NS4xMjY5OTkgNDguNzY3NjM5IDE0Ny4zMjY0MzUgMjMuNDIwNTA4IDguMTI3OTQtMy45NzM2NTkgMTYuNDM2NS03LjY0NjI4NCAyNC41MDQyMzMtMTEuNjgwMTUxIDM0Ljk4MDI0NS0xNy40NjAwMTkgNjkuMTE3NTkyLTE1LjE3MjE1NCAxMDEuNzQ5NzY1IDUuNTk5MjQ4IDQ2LjQxOTU2NyAyOS41MDE0MTEgOTEuMjEzNTQ3IDI2LjM3MDY0OSAxMzYuOTEwNjMtMi41ODg5IDM2LjMwNDc5OC0yMi45OTkwNTkgNzIuMzY4NzY4LTE5LjQ0Njg0OSAxMDUuMDYxMTQ4IDcuMTY0NjI5LTYuNjgyOTczIDEyLjUyMzA0OC0xNS4yMzIzNjEgMTQuMDg4NDI5LTI3LjYzNDk5NiA2Ljg2MzU5My0xOS4wODU2MDctMTEuMTM4Mjg4LTM5LjA3NDMxOC05LjgxMzczNS01OC40NjA5NTkgMC4wNjAyMDctMTEuNjE5OTQ0IDUuOTAwMjgyLTIyLjg3ODY0NSAxMi40NjI4NDEtMzQuMzE3OTY4IDE4LjYwMzk1MS0zOS44NTcwMDggMjEuNDMzNjc4LTc4Ljc1MDcwNiAxNC41MDk4NzgtMTE3LjE2Mjc0Ny00LjA5NDA3My02LjYyMjc2Ni0zLjE5MDk2OS0xMi44ODQyOS03LjEwNDQyMS0xOS41MDcwNTYtMTAuMjk1MzktMzAuNzY1NzU3LTE0LjgxMDkxMy02MS4yMzA0OC0xNS4yMzIzNjEtOTAuNjcxNjgzIDMuMzExMzgyLTQ4LjgyNzg0NiAzMC44MjU5NjQtOTcuNDc1MDcxIDMxLjg0OTQ4My0xNDcuMDI1NCAxLjIwNDE0LTI4LjA1NjQ0NC0xNy4zMzk2MDUtNTcuNDM3NDQxLTIzLjkwMjE2NC04Ny43MjE1NDMtNC4yNzQ2OTUtMTAuNDE1ODA0IDYuNzQzMTgtMTIuNTgzMjU1LTQuMzM0OTAxLTE2LjQzNjUwMS04Ljk3MDgzNy02LjA4MDkwMy03LjI4NTA0MiAyLjk1MDE0MS03Ljg4NzExMiA2LjQ0MjE0NS05LjkzNDE0OCA3LjE2NDYyOC00LjIxNDQ4NyAxNC44NzExMTktNy41ODYwNzcgMjIuMzk2OTktMTEuMzE4OTA5LTAuMzAxMDM1LTEuMTQzOTMyLTAuNjAyMDctMi4yODc4NjUtMC44NDI4OTgtMy4zNzE1OXoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNNzM0LjIyMzg5NSA0MTcuNzE1ODk4YzkuMDMxMDQ0LTE3LjUyMDIyNiAxNy40NjAwMTktMzIuODczMDAxIDI0Ljg2NTQ3NS00OC43Njc2MzggMy45MTM0NTItOC40Mjg5NzUgNy41ODYwNzctMTAuOTU3NjY3IDE2LjMxNjA4Ni01LjUzOTA0MSAxNS44MzQ0MzEgOS44MTM3MzUgMzIuMTUwNTE3IDE4Ljk2NTE5MyA0OC43MDc0MzIgMjcuNjk1MjAyIDcuODg3MTEyIDQuMTU0MjggOC42Njk4MDIgOC4zMDg1NjEgNC41NzU3MjkgMTYuMDE1MDUyLTEzLjYwNjc3MyAyNS40Njc1NDUtMjYuMDA5NDA3IDUxLjU5NzM2Ni0zOS45MTcyMTUgNzYuODI0MDgzLTguMTI3OTQgMTQuNzUwNzA2LTguNzkwMjE2IDI3LjYzNDk5NS0wLjQ4MTY1NiA0Mi45Mjc1NjMgMTYuNDM2NSAzMC4xNjM2ODggMzAuOTQ2Mzc4IDYxLjM1MDg5NCA0Ny4zODI4NzkgOTQuMjg0MTAyLTE2LjI1NTg4IDAtMjkuNTYxNjE4IDAuMzAxMDM1LTQyLjkyNzU2NC0wLjEyMDQxNC05LjM5MjI4Ni0wLjMwMTAzNS0xMi45NDQ0OTctNy41ODYwNzctMTYuNDM2NS0xNS4wNTE3NC00Mi44MDcxNS05MS44MTU2MTYtODUuNjc0NTA2LTE4My41NzEwMjUtMTI4LjU0MTg2My0yNzUuMzI2NDM1LTMuMTMwNzYyLTYuNjgyOTczLTYuMTQxMTEtMTMuMzY1OTQ1LTkuMzMyMDc5LTE5Ljk4ODcxMS0xNC4xNDg2MzYtMjkuNzQyMjM5LTE2LjAxNTA1Mi0zMS4wNjY3OTItNDguMDQ1MTU1LTI1LjcwODM3My0xMTEuNTAzMjkzIDE4LjU0Mzc0NC0yMjIuOTQ2Mzc4IDM3LjIwNzkwMi0zMzQuMzI5MjU3IDU2LjQxMzkyMy0xNS4yMzIzNjEgMi41ODg4OTktMjMuNjAxMTI5IDAuNzIyNDg0LTIzLjcyMTU0My0xNy4wOTg3NzctMC4wNjAyMDctMTEuNTU5NzM3LTguMDY3NzMzLTI2LjMxMDQ0Mi0zLjMxMTM4My0zMy44OTY1MTkgNS4yMzgwMDYtOC40Mjg5NzUgMjEuNzk0OTItNS4xNzc3OTkgMzMuNDc1MDcxLTYuNjgyOTczIDEyMi44MjIyMDEtMTUuNzE0MDE3IDI0NS42NDQ0MDMtMzEuMTg3MjA2IDM2OC4zNDYxOS00Ny41NjM0OTkgMTEuMDc4MDgxLTEuNTA1MTc0IDE0Ljc1MDcwNiAyLjEwNzI0NCAxOC44NDQ3NzkgMTAuNjU2NjMyIDI2LjMxMDQ0MiA1NC40ODczIDUyLjk4MjEyNiAxMDguNzkzOTc5IDc5LjU5MzYwMyAxNjMuMTAwNjU4IDAuOTYzMzExIDEuOTI2NjIzIDIuMzQ4MDcxIDMuNjcyNjI1IDQuOTM2OTcxIDcuODI2OTA1ek0yNjkuOTA3ODA4IDY3NS4yMjEwNzJjMTMuMzA1NzM4LTAuMjQwODI4IDI1LjgyODc4NiAzLjAxMDM0OCAzNy42ODk1NTggOC43MzAwMSAxMS42ODAxNTEgNS42NTk0NTQgMjMuMjM5ODg3IDExLjc0MDM1NyAzNC42NzkyMSAxNy45NDE2NzQgMzIuMDkwMzEgMTcuNDYwMDE5IDY0LjM2MTI0MiAxNy41ODA0MzMgOTUuMDY2NzkyLTEuOTg2ODI5IDQ3Ljg2NDUzNC0zMC40NjQ3MjIgOTUuMTI2OTk5LTMxLjc4OTI3NiAxNDMuNTMzMzk2LTEuODY2NDE2IDM2LjEyNDE3NyAyMi4zMzY3ODMgNzIuNjA5NTk1IDIxLjg1NTEyNyAxMDguOTc0Ni0wLjA2MDIwNyA3LjIyNDgzNS00LjM5NTEwOCAxNS4wNTE3NC03Ljc2NjY5OCAyMi41Nzc2MTEtMTEuODAwNTY1IDMwLjgyNTk2NC0xNi40OTY3MDcgNjAuODA5MDMxLTE0LjQ0OTY3MSA5MC4wNjk2MTQgMy45MTM0NTMgMy4xOTA5NjkgMS45ODY4MyAxMC42NTY2MzIgMi44Mjk3MjcgNS43MTk2NjEgOS4xNTE0NTgtMy4zNzE1OSA0LjM5NTEwOC01LjQxODYyNyAxMi4yODIyMi0xMy45NjgwMTUgOS4yNzE4NzItMi4xMDcyNDQtMC43ODI2OS00LjA5NDA3My0xLjkyNjYyMy02LjAyMDY5Ni0zLjA3MDU1NS0yMy4zNjAzMDEtMTMuNDI2MTUyLTQ2LjM1OTM2LTExLjQ5OTUzLTY5LjQxODYyNiAxLjAyMzUxOC0xMy40MjYxNTIgNy4yODUwNDItMjYuNzkyMDk4IDE0Ljc1MDcwNi00MC44ODA1MjcgMjAuNTkwNzgxLTI5LjU2MTYxOCAxMi4yMjIwMTMtNTkuNTQ0Njg1IDExLjg2MDc3MS04OC45ODU4ODktMC45MDMxMDQtMTAuODk3NDYtNC42OTYxNDMtMjEuNDkzODg1LTEwLjE3NDk3Ni0zMS43MjkwNjktMTYuMTk1NjczLTMxLjkwOTY5LTE4Ljg0NDc3OS02My4zMzc3MjMtMTguMDAxODgxLTk0LjU4NTEzNiAxLjI2NDM0Ni0xOC40ODM1MzcgMTEuMzc5MTE2LTM4LjExMTAwNyAxOS44MDgwOS01OS45MDU5MjcgMjIuMzM2NzgzLTI5LjIwMDM3NiAzLjQzMTc5Ny01Ni4yOTM1MDktMi43Njk1Mi04MS4wOTg3NzctMTguNDIzMzMtMjkuNDQxMjA0LTE4LjU0Mzc0NC01OS41NDQ2ODUtMjcuNzU1NDA5LTkyLjI5NzI3Mi04LjMwODU2MS05LjAzMTA0NCA1LjM1ODQyLTE0LjI2OTA1LTAuOTAzMTA0LTE3Ljg4MTQ2Ny03LjE2NDYyOC00LjgxNjU1Ny04LjEyNzk0IDQuMzM0OTAxLTkuMDkxMjUxIDguMzA4NTYtMTEuNDM5MzIzIDE1LjIzMjM2MS05LjA5MTI1MSAzMi4zOTEzNDUtMTIuNTIzMDQ4IDUwLjE1MjM5OS0xMy4wMDQ3MDR6Ii8+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwNi42MzAyOTIgNzQ5LjE1NTIyMWMzNy40NDg3My0yNC4yNjM0MDUgNzQuNTM2MjE4LTI4LjExNjY1MSAxMTMuMDA4NDY2LTYuMzgxOTM4IDMuNDMxNzk3IDEuOTI2NjIzIDcuMTA0NDIxIDMuNjEyNDE4IDEwLjQxNTgwNSA1LjcxOTY2MSAzOC43MTMwNzYgMjUuMjI2NzE3IDc3LjI0NTUzMiAyNS4xNjY1MSAxMTYuMDc5MDIxIDAuMDYwMjA3IDE1LjgzNDQzMS0xMC4yMzUxODMgMzMuMDUzNjIyLTE3LjAzODU3IDUyLjA3OTAyMi0xOC45MDQ5ODUgMjUuNjQ4MTY2LTIuNDY4NDg1IDUwLjM5MzIyNyAxLjU2NTM4MSA3MS41ODYwNzcgMTUuNzE0MDE3IDQ1LjE1NTIyMSAzMC4xMDM0ODEgODguMzIzNjEyIDI3LjUxNDU4MSAxMzIuODc2NzY0LTEuNTA1MTc1IDM1Ljk0MzU1Ni0yMy40MjA1MDggNzIuNDg5MTgyLTIwLjY1MDk4OCAxMDcuNTg5ODQgMy42NzI2MjUtNS40Nzg4MzMgMTIuNTgzMjU1LTExLjg2MDc3MSAxOC4xODI1MDItMjUuNjQ4MTY2IDkuNjkzMzIxLTI0LjY4NDg1NC0xNS4yOTI1NjgtNDguNTg3MDE4LTguMzY4NzY4LTcxLjc2NjY5OCA1LjQxODYyNi0yMi45OTkwNTkgMTMuNjY2OTgtNDYuNzgwODA5IDI0LjgwNTI2OC03NC41MzYyMTggMjUuMjI2NzE3LTI0LjUwNDIzMyAwLjM2MTI0Mi00Ny41NjM1LTQuNTc1NzI5LTY3LjkxMzQ1Mi0xNy43NjEwNTMtMzkuMTM0NTI1LTI1LjUyNzc1Mi03Ni4zNDI0MjctMjYuNzkyMDk4LTExNy4xNjI3NDctMS40NDQ5NjctNDMuMzQ5MDEyIDI2Ljk3MjcxOS04OS4xNjY1MSAyNS43MDgzNzMtMTMzLjExNzU5Mi0xLjgwNjIwOS0yOS44MDI0NDYtMTguNjY0MTU4LTYwLjAyNjM0MS0yNS4yMjY3MTctOTIuNDc3ODkzLTUuODQwMDc2LTEyLjU4MzI1NSA3LjUyNTg3LTEzLjI0NTUzMi03Ljc2NjY5OC0yMS4wMTIyMjktMTEuODYwNzcxeiIvPjwvc3ZnPg==;imageBackground=default;" parent="_2P0ydqBUkeEVUjt9T0Z-41" vertex="1">
-          <mxGeometry x="58" y="2.569112903225725" width="35.70967741935483" height="35.531129032258065" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMC4wMDAwMjM4NDE4NTc5IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAxMDI0LjAwMDEyMjA3MDMxMjUgMTAyNCIgY2xhc3M9Imljb24iPjxwYXRoIGNsYXNzPSJzZWxlY3RlZCIgZGF0YS1zcG0tYW5jaG9yLWlkPSJhMzEzeC5zZWFyY2hfaW5kZXguMC5pNy4zMjQ5M2E4MWZBRWxHVCIgZmlsbD0iI2JhMjQxMSIgZD0iTTgxMC42NjY1NCA1OTcuMzMzMjRjMTE3LjgxODY0OCAwIDIxMy4zMzMzIDk1LjUxNDY1MiAyMTMuMzMzMyAyMTMuMzMzM2EyMTIuNDEwNjMzIDIxMi40MTA2MzMgMCAwIDEtNDQuNzk5OTkzIDEzMC44MTU5OGwtMjIuODM3MzMtMjIuODQyNjY0QTE4MC41MjI2MzggMTgwLjUyMjYzOCAwIDAgMCA5OTEuOTk5ODQ1IDgxMC42NjY1NGMwLTEwMC4xNDkzMTgtODEuMTgzOTg3LTE4MS4zMzMzMDUtMTgxLjMzMzMwNS0xODEuMzMzMzA1YTE4MC42MDI2MzggMTgwLjYwMjYzOCAwIDAgMC0xMTYuNDEwNjQ4IDQyLjI5MzMyN2wyNzguMTQ5Mjg5IDI3OC4xNTQ2MjNhMjE0LjYxMzMgMjE0LjYxMzMgMCAwIDEtOC4wODUzMzIgOC44Nzk5OTlsLTIuODA1MzMzIDIuODUzMzMyYTIxNC42MjkzIDIxNC42MjkzIDAgMCAxLTguMTkxOTk4IDcuNzc1OTk5bC0wLjUzMzMzNCAwLjQ4LTAuNzY3OTk5IDAuNjc3MzMzYTIxNC41MjI2MzMgMjE0LjUyMjYzMyAwIDAgMS0yLjI0IDEuOTU3MzMzbC0wLjcwOTMzMyAwLjYwOEEyMTIuNDkwNjMzIDIxMi40OTA2MzMgMCAwIDEgODEwLjY2NjU0IDEwMjMuOTk5ODRjLTExNy44MTg2NDggMC0yMTMuMzMzMy05NS41MTQ2NTItMjEzLjMzMzMtMjEzLjMzMzNhMjEyLjQxMDYzMyAyMTIuNDEwNjMzIDAgMCAxIDQ0Ljc5OTk5My0xMzAuODE1OThsMjIuODM3MzMgMjIuODQyNjY0QTE4MC41MjI2MzggMTgwLjUyMjYzOCAwIDAgMCA2MjkuMzMzMjM1IDgxMC42NjY1NGMwIDEwMC4xNDkzMTggODEuMTgzOTg3IDE4MS4zMzMzMDUgMTgxLjMzMzMwNSAxODEuMzMzMzA1IDQ0LjMxNDY2IDAgODQuOTExOTg3LTE1Ljg5MzMzMSAxMTYuNDEwNjQ4LTQyLjI5MzMyN2wtMjc4LjE0OTI4OS0yNzguMTU0NjIzYzMuNTczMzMzLTQuMTU0NjY2IDcuMzA2NjY2LTguMTY1MzMyIDExLjE4Mzk5OC0xMi4wMzE5OThsLTAuMjkzMzMzIDAuMjk4NjY3YTIxNC42NTA2MzMgMjE0LjY1MDYzMyAwIDAgMSAxMS43MzMzMzEtMTAuODkwNjY1bDAuNzA5MzMzLTAuNjA4QTIxMi40OTA2MzMgMjEyLjQ5MDYzMyAwIDAgMSA4MTAuNjY2NTQgNTk3LjMzMzI0eiBtNjEuOTE5OTkgMzEyLjk1OTk1MWwyMC44MjY2NjQgMjAuODM3MzNBMTIzLjcxMTk4MSAxMjMuNzExOTgxIDAgMCAxIDgyOS42OTU4NyA5NTkuOTk5ODVjMjAuOTAxMzMtNi44MzE5OTkgMzcuMjg1MzI4LTI1Ljc3NTk5NiA0Mi44ODUzMjctNDkuNzA2NjU5eiBtLTE2MC4zNTE5NzUtMTYwLjM1MTk3NWw4MC4xNDM5ODggODAuMTU5OTg4Yy0zLjkyNTMzMyA5LjExOTk5OS0xMy4wODc5OTggMTIuMzE5OTk4LTE0LjQxMDY2NSAyNS45NjI2NjItMy40ODI2NjYtMy4zNDkzMzMtNC40NDc5OTktMTIuNjIzOTk4LTIuODk1OTk5LTI3LjgyMzk5NWExLjU1MiAxLjU1MiAwIDAgMC0yLjY1Ni0xLjI0OGwtMC4yMTMzMzMgMC4yODI2NjYtMS41NDY2NjYgMi41NjUzMzNjLTEzLjYyMTMzMSAyMy4wMTg2NjMtMjAuNDMxOTk3IDQzLjc3MDY2LTIwLjQzMTk5NyA2Mi4yNTU5OTEgMCAzMi4yMjM5OTUgMTguOTk3MzMgNTkuNDEzMzI0IDQ0Ljk3MDY1OSA2Ny45MDM5ODlDNzM0LjYyOTIxOSA5NTEuNTczMTg1IDY4Ny45OTk4OTMgODk5LjM3NTg1OSA2ODcuOTk5ODkzIDgzNi4yNTA1MzZjMC0zMi41Mjc5OTUgOC4wNzk5OTktNjEuMjk1OTkgMjQuMjM0NjYyLTg2LjMwOTMyek0yMzQuNjY2NjMgMjU1Ljk5OTk2bDU5Ljg5MzMyNCA4MS45MDkzMjFMMjIzLjk5OTk2NSA0MzEuOTk5OTMzaDYxLjcxMTk5bDIuNjYxMzMzIDMuNzIyNjY2TDE1NC40MjY2NDMgNTkxLjk5OTkwOEgyNDguNjM5OTYxbC0xMzIuNzQxMzEyIDE3MC42NjY2NGgyNzUuODg3OTU2bC0xMy4yNzQ2NjQgODMuODkzMzJIMjY0Ljg0Nzk1OWwyMS4wNjY2NjMgOTIuMTA2NjUySDE2Ny4yMzE5NzRsMjEuMDY2NjYzLTkyLjEwNjY1MkgwbDEwNS4xOTQ2NS0xNDAuODY5MzEySDMyLjM2Nzk5NWwxMDcuODkzMzE2LTEzMC4wMzE5NzlIODYuMzE0NjUzTDE5MC44Nzk5NyA0MjkuMzc1OTMzSDEwNy44OTMzMTZMMjM0LjY2NjYzIDI1NS45OTk5NnpNNDc5Ljk5OTkyNSAwbDE1OS45OTk5NzUgMjEzLjMzMzNoLTk5Ljk5OTk4NEw2NzEuOTk5ODk1IDM4OS4zMzMyNzNoLTczLjE0MTMyMkw3MzUuOTk5ODg1IDU0OS4zMzMyNDhoLTkwLjA3NDY1M2wzMi42NjEzMjkgNDEuOTk0NjZjLTQ4Ljc4OTMyNiAyOS40Mzk5OTUtODYuOTU0NjUzIDc0LjY5ODY1NS0xMDcuNDAyNjUgMTI4LjY3MTk4SDUwOS40MTMyNTRMNTQzLjk5OTkxNSA5MzguNjY2NTJIMzk0LjY2NjYwNWwzNC41ODEzMjgtMjE4LjY2NjYzMkgxODEuMzMzMzA1bDEzMi43NDEzMTMtMTcwLjY2NjY0SDIyMy45OTk5NjVsMTM3LjE0MTMxMi0xNTkuOTk5OTc1SDI4Ny45OTk5NTVsMTMxLjk5OTk3OS0xNzUuOTk5OTczSDMxOS45OTk5NUw0NzkuOTk5OTI1IDB6IG0zNjQuNzQxMjc2IDY2MS4zODEyM2MxLjY5MDY2NiAwLjI5ODY2NyAyLjgyNjY2NiAxLjkxNDY2NiAyLjUyOCAzLjYxNTk5OS0zLjYwNTMzMyAyMC42OTMzMy0zLjI5MDY2NiAzNi44MTU5OTQgMC45NTQ2NjYgNDguMzczMzI2IDYuODc5OTk5IDE4LjczNTk5NyAyOS41NDY2NjIgMzAuNzM1OTk1IDMzLjE3MzMyOSA1OS4xNjI2NTggNi45Mzg2NjYtNS44OTMzMzIgOC44Nzk5OTktMjIuMTg2NjYzIDUuODIzOTk5LTQ4Ljg2OTMyNmEzLjEwNCAzLjEwNCAwIDAgMSA1LjI5MDY2Ni0yLjU2NTMzM2wwLjM2MjY2NiAwLjQyNjY2N2MyOS4zNDM5OTUgNDIuNTU5OTkzIDQ0LjAxNTk5MyA4MC43OTk5ODcgNDQuMDE1OTkzIDExNC43MjUzMTUgMCAxOC40NjM5OTctMy45ODkzMzMgMzUuOTk5OTk0LTExLjE1MTk5OCA1MS43NzA2NTlsLTE3Ny41NTczMDYtMTc3LjU0NjYzOWMyNC4zMTQ2NjMtMTkuNzU0NjY0IDU1Ljk5OTk5MS0zNi4wODUzMjggOTUuMDUwNjUyLTQ4Ljk4NjY1OWEzLjA5ODY2NiAzLjA5ODY2NiAwIDAgMSAxLjUwOTMzMy0wLjEwNjY2N3pNNzI1LjMzMzIyIDI1NS45OTk5NmwxMjYuNzczMzE0IDE3My4zNzU5NzMtNzcuNjA1MzIyLTAuMDA1MzMzIDk0LjMxOTk4NiAxMzEuOTMwNjQ2QTI1Ni43Njc5NiAyNTYuNzY3OTYgMCAwIDAgODEwLjY2NjU0IDU1NC42NjY1OGMtMTEuODkzMzMxIDAtMjMuNTg5MzMgMC44MTA2NjctMzUuMDUwNjYxIDIuMzc4NjY2TDY3NC41NTk4OTUgNDM5LjE1MTkzMWw1LjExNDY2NS03LjE1MTk5OEg3MzUuOTk5ODg1bC03MC41NzA2NTYtOTQuMDg1MzE5TDcyNS4zMzMyMiAyNTUuOTk5OTZ6Ii8+PC9zdmc+;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-41">
-          <mxGeometry x="36.43000000000001" y="40.66935483870967" width="29.896935483870966" height="29.896935483870966" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="_2P0ydqBUkeEVUjt9T0Z-41" source="aM6hJHMmdhx9VierY-xj-30" target="aM6hJHMmdhx9VierY-xj-30">
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-52" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;jumpStyle=arc;shadow=1;flowAnimation=0;strokeWidth=2;endFill=1;" edge="1" parent="_2P0ydqBUkeEVUjt9T0Z-46" source="X7e0Fuj6IVQtCj5JwST4-27" target="X7e0Fuj6IVQtCj5JwST4-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-44" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.72;dx=16.43;direction=north;notch=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="693" width="105" height="29" as="geometry" />
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;参数配置&lt;/font&gt;&lt;/b&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;strokeWidth=1.5;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-46">
+          <mxGeometry x="27" y="58" width="103" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;金融实体气候风险评估&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=2;fillStyle=solid;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="211" y="493" width="552" height="197" as="geometry">
-            <mxRectangle x="-253" y="238" width="130" height="26" as="alternateBounds" />
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;labelBackgroundColor=default;jumpStyle=arc;endArrow=classic;endFill=1;flowAnimation=0;curved=0;" edge="1" parent="_2P0ydqBUkeEVUjt9T0Z-46" source="X7e0Fuj6IVQtCj5JwST4-28" target="X7e0Fuj6IVQtCj5JwST4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-28" value="&lt;span style=&quot;font-size: 12pt; line-height: 140%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;致灾因子计算&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;strokeWidth=1.5;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-46">
+          <mxGeometry x="158" y="58" width="103" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;labelBackgroundColor=default;jumpStyle=arc;endArrow=classic;endFill=1;flowAnimation=0;curved=0;" edge="1" parent="_2P0ydqBUkeEVUjt9T0Z-46" source="X7e0Fuj6IVQtCj5JwST4-29" target="X7e0Fuj6IVQtCj5JwST4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-29" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;暴露度与脆弱性分析&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;strokeWidth=1.5;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-46">
+          <mxGeometry x="290" y="58" width="103" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-30" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;风险指标生成&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;strokeWidth=1.5;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-46">
+          <mxGeometry x="422" y="58" width="103" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-76" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=1.5;" edge="1" parent="1" source="_2P0ydqBUkeEVUjt9T0Z-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209" y="651" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="216" y="936" />
+              <mxPoint x="122" y="936" />
+              <mxPoint x="122" y="651" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-47" value="物理风险" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=0;fillStyle=hatch;labelBackgroundColor=none;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-46">
-          <mxGeometry x="25" y="67" width="127" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-48" value="转型风险计算" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-46">
-          <mxGeometry x="311" y="67" width="127" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-49" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;风险&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;opacity=80;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-445" y="844" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-50" value="金融实体气候风险评估" style="swimlane;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="497" y="296" width="286" height="157" as="geometry">
-            <mxRectangle x="-253" y="238" width="130" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-51" value="物理风险" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-50">
-          <mxGeometry x="25" y="67" width="127" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-55" value="&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Climate &amp;amp; Geospatial&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=center;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="211" y="778" width="128" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-63" value="&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 11px; line-height: 50%;&quot;&gt;&amp;nbsp;Socioeconomic &amp;amp; Enterprise Operational&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="align=center;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="358" y="778" width="128" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-64" value="&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;&lt;b&gt;Climate &amp;amp; Geospatial&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=center;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="504" y="778" width="128" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-65" value="&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;&lt;b&gt;Climate &amp;amp; Geospatial&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=center;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="651" y="778" width="128" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-66" value=" Socioeconomic &amp; Enterprise Operational" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;whiteSpace=wrap;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="863" y="609" width="205" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-67" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-66">
-          <mxGeometry y="40" width="205" height="81" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-68" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-67">
-          <mxGeometry width="205" height="81" as="geometry">
-            <mxRectangle width="205" height="81" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-70" value="&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 11px; line-height: 5.5px;&quot;&gt;&amp;nbsp;Socioeconomic &amp;amp; Enterprise Operational&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="align=center;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=1.2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="403" y="939" width="134" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-71" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 11px; line-height: 5.5px;&quot;&gt;&amp;nbsp;Socioeconomic &amp;amp; Enterprise Operational&lt;/font&gt;&lt;/b&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=1.5;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="218" y="1087" width="133" height="111" as="geometry">
+        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-71" value="&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Geospatial &amp;amp; Climate Data Foundation&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=1.5;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="149" y="789" width="133" height="115" as="geometry">
             <mxRectangle x="640" y="983" width="252" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-72" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-71">
-          <mxGeometry y="50" width="133" height="61" as="geometry" />
+        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-72" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;&quot;&gt;+Geospatial Boundaries&lt;/font&gt;&lt;br&gt;+Climate Risk Database&lt;br&gt;+Hazard Parameters&lt;/font&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" parent="_2P0ydqBUkeEVUjt9T0Z-71" vertex="1">
+          <mxGeometry y="50" width="133" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-73" value="&lt;b style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 11px; line-height: 5.5px;&quot;&gt;&amp;nbsp;Socioeconomic &amp;amp; Enterprise Operational&lt;/font&gt;&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;spacing=2;spacingBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1099" width="140" height="104" as="geometry" />
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-77" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;startFill=0;strokeWidth=1.5;" edge="1" parent="1" source="X7e0Fuj6IVQtCj5JwST4-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="181" y="936" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="352" y="936" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-74" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-73">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-11" value="&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Scenario Modeling &amp;amp; Risk Parameters Library&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=1.5;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="789" width="130.75" height="115" as="geometry">
+            <mxRectangle x="640" y="983" width="252" height="50" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-75" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-73">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;+Climate Scenarios&lt;br&gt;+Vulnerability Functions&lt;br&gt;+&amp;nbsp;&lt;/font&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-11">
+          <mxGeometry y="50" width="130.75" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="_2P0ydqBUkeEVUjt9T0Z-76" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_2P0ydqBUkeEVUjt9T0Z-73">
-          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-68" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;strokeWidth=1.5;" edge="1" parent="1" source="X7e0Fuj6IVQtCj5JwST4-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="132" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="488" y="950" />
+              <mxPoint x="99" y="950" />
+              <mxPoint x="99" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-13" value="&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Financial Market Data Warehouse&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=1.5;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422.13" y="789" width="130.75" height="115" as="geometry">
+            <mxRectangle x="640" y="983" width="252" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;+Market Benchmarks&lt;br&gt;+Derivatives Trading&lt;br&gt;+Liquidity Metrics&lt;/font&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-13">
+          <mxGeometry y="50" width="130.75" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-79" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;startFill=0;dashed=1;strokeWidth=1.5;" edge="1" parent="1" source="X7e0Fuj6IVQtCj5JwST4-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="471" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="613" y="949" />
+              <mxPoint x="480" y="949" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-92" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="X7e0Fuj6IVQtCj5JwST4-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="854" y="512" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="622" y="950" />
+              <mxPoint x="854" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-15" value="&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Entity Operation &amp;amp; Asset Data Repository&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=1.5;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="557" y="789" width="130.75" height="115" as="geometry">
+            <mxRectangle x="640" y="983" width="252" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-16" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;+Financial Metrics&lt;br&gt;+Supply Chain Network&lt;br&gt;+Attribute3&lt;/font&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-15">
+          <mxGeometry y="50" width="130.75" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-94" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;startFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="X7e0Fuj6IVQtCj5JwST4-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="809" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="757" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-17" value="&lt;p style=&quot;margin: 6px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Policy Compliance &amp;amp; Industry Benchmark&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=1.5;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="692" y="789" width="130.75" height="115" as="geometry">
+            <mxRectangle x="640" y="983" width="252" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-18" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;+Climate Policy Archive&lt;br&gt;+Carbon Pricing&lt;br&gt;+ESG Standards&lt;/font&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-17">
+          <mxGeometry y="50" width="130.75" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-45" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.72;dx=16.43;direction=north;notch=0;labelBackgroundColor=none;gradientColor=none;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="293" y="512" width="99" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;金融实体物理风险评估&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=2;fillStyle=solid;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="359.5" width="350" height="149" as="geometry">
+            <mxRectangle x="-253" y="238" width="130" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-80" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;数据整合&amp;amp;准备&lt;/b&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;strokeWidth=1.5;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-53">
+          <mxGeometry x="9" y="53" width="100" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-83" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;多维度风险建模&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;strokeWidth=1.5;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-53">
+          <mxGeometry x="121.5" y="53" width="100" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-84" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;风险输出&amp;amp;可视化&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;strokeWidth=1.5;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-53">
+          <mxGeometry x="240" y="53" width="100" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-125" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="X7e0Fuj6IVQtCj5JwST4-61" target="X7e0Fuj6IVQtCj5JwST4-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="893" y="474" />
+              <mxPoint x="893" y="598" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-61" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;金融实体转型风险评估&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;strokeWidth=2;fillStyle=solid;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="512" y="359" width="365" height="150" as="geometry">
+            <mxRectangle x="-253" y="238" width="130" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-88" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;数据整合&amp;amp;准备&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;strokeWidth=1.5;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-61">
+          <mxGeometry x="9" y="53" width="100" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-89" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;情景建模&amp;amp;转型成本测算&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;strokeWidth=1.5;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-61">
+          <mxGeometry x="121.5" y="53" width="100" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-90" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;转型风险量化&amp;amp;评估&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;strokeWidth=1.5;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-61">
+          <mxGeometry x="240" y="53" width="100" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-85" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.72;dx=16.43;direction=north;notch=0;labelBackgroundColor=none;gradientColor=none;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="441" y="697" width="99" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-124" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="904" y="448" width="401" height="458" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-113" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;dashed=1;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-124">
+          <mxGeometry x="9.870000000000001" y="-11" width="381.27" height="422" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-118" value="气候风险评估指标" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;textShadow=1;strokeWidth=1.5;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-124">
+          <mxGeometry x="44.00129353233831" y="31" width="315.13432835820896" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-119" value="目标区域年度预期损失" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-118">
+          <mxGeometry y="26" width="315.13432835820896" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-120" value="目标区域风险损失占比" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-118">
+          <mxGeometry y="52" width="315.13432835820896" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-121" value="目标区域&amp;amp;金融实体风险损失地图" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-118">
+          <mxGeometry y="78" width="315.13432835820896" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-122" value="目标区域&amp;amp;金融实体风险评分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-118">
+          <mxGeometry y="104" width="315.13432835820896" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-123" value="目标区域&amp;amp;金融实体风险评估报告" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-118">
+          <mxGeometry y="130" width="315.13432835820896" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-150" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.72;dx=16.43;direction=north;notch=0;labelBackgroundColor=none;gradientColor=none;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;rotation=-180;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-124">
+          <mxGeometry x="143.26" y="195" width="99" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-151" value="模型应用场景" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;textShadow=1;strokeWidth=1.5;" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-124">
+          <mxGeometry x="42.93129353233826" y="229" width="315.13432835820896" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-152" value="目标区域年度预期损失" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-151">
+          <mxGeometry y="26" width="315.13432835820896" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-153" value="目标区域风险损失占比" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-151">
+          <mxGeometry y="52" width="315.13432835820896" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-154" value="目标区域&amp;amp;金融实体风险损失地图" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-151">
+          <mxGeometry y="78" width="315.13432835820896" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-155" value="目标区域&amp;amp;金融实体风险评分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-151">
+          <mxGeometry y="104" width="315.13432835820896" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X7e0Fuj6IVQtCj5JwST4-156" value="目标区域&amp;amp;金融实体风险评估报告" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="X7e0Fuj6IVQtCj5JwST4-151">
+          <mxGeometry y="130" width="315.13432835820896" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
